@@ -1,10 +1,18 @@
 [
   {
+    "package": "dendextend",
+    "oncran": true
+  },
+  {
     "package": "edfun",
     "oncran": true
   },
   {
     "package": "gplots",
+    "oncran": true
+  },
+  {
+    "package": "heatmaply",
     "oncran": true
   },
   {
