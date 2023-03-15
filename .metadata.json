@@ -1,14 +1,6 @@
 [
   {
-    "package": "dendextend",
-    "oncran": true
-  },
-  {
-    "package": "edfun",
-    "oncran": true
-  },
-  {
-    "package": "gplots",
+    "package": "installr",
     "oncran": true
   },
   {
@@ -16,7 +8,15 @@
     "oncran": true
   },
   {
-    "package": "installr",
+    "package": "edfun",
+    "oncran": true
+  },
+  {
+    "package": "dendextend",
+    "oncran": true
+  },
+  {
+    "package": "gplots",
     "oncran": true
   }
 ]
