@@ -1,10 +1,6 @@
 [
   {
-    "package": "installr",
-    "oncran": true
-  },
-  {
-    "package": "heatmaply",
+    "package": "dendextend",
     "oncran": true
   },
   {
@@ -12,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "dendextend",
+    "package": "gplots",
     "oncran": true
   },
   {
-    "package": "gplots",
+    "package": "heatmaply",
+    "oncran": true
+  },
+  {
+    "package": "installr",
     "oncran": true
   }
 ]
