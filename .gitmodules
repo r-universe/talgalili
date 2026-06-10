@@ -5,9 +5,6 @@
 [submodule "dendextend"]
 	path = dendextend
 	url = https://github.com/talgalili/dendextend
-[submodule "edfun"]
-	path = edfun
-	url = https://github.com/talgalili/edfun
 [submodule "gplots"]
 	path = gplots
 	url = https://github.com/talgalili/gplots
